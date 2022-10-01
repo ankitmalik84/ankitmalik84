@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Web Developement**
 
+- 📖 I’m currently learning **Data Structure**
+
 - 📫 How to reach me **ankitmalik844903@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
