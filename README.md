@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ankitmalik844903@gmail.com**
 
-- 📺 My Youtube Channel <a href="https://github.com/ryo-ma/github-profile-trophy">Code Infinity</a>
+- 📺 My Youtube Channel <a href="https://github.com/ryo-ma/github-profile-trophy">**Code Infinity**</a>
 
 - ⚡ Fun fact **I think I am funny**
 
