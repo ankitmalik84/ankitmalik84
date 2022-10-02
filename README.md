@@ -20,6 +20,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankit-malik-986197227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-malik-986197227/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa" height="30" width="40" /></a>
+<a href="https://instagram.com/mindless_jaat__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mindless_jaat__/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ankitmalik844903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitmalik844903" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankitmalik844903/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitmalik844903/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/ankitmalik844903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/ankitmalik844903" height="30" width="40" /></a>
 </p>
 
 ```python
