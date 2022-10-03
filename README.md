@@ -7,6 +7,8 @@
 
 <!-- <h3 align="center">A passionate Competitive Programmer from India</h3> -->
 
+<!-- My Portfolio Bars -->
+[<img src="https://img.shields.io/badge/-My_Youtube_Channel-000000?style=social&logo=youtube"/>](https://puneetportfolio.netlify.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmalik84&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmalik84" /> </p>
 
