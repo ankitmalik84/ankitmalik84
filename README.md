@@ -39,7 +39,7 @@
 <a href="https://linkedin.com/in/ankit-malik-986197227/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/ankit-malik-986197227/"/></a>
 <a href="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa"/></a>
 <a href="https://instagram.com/mindless_jaat__/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mindless_jaat__/" /></a>
-<a href="/https://linktr.ee/codeinfinity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/connect.png" alt="https://linktr.ee/codeinfinity" /></a></p>
+<a href="https://linktr.ee/codeinfinity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/connect.png" alt="https://linktr.ee/codeinfinity" /></a></p>
   
  ## <img src="images/contact.gif" style=" width:50px;"> Coding Profiles :
 <p align="left" >
