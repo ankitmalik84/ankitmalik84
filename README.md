@@ -7,12 +7,7 @@
 
 <!-- <h3 align="center">A passionate Competitive Programmer from India</h3> -->
 
-<!-- My Youtue Bar -->
-[<img src="https://img.shields.io/badge/-My_Youtube_Channel-000000?style=social&logo=youtube"/>](https://www.youtube.com/channel/UCJdWKVZpU687cfPgXRuRBaA)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmalik84&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmalik84" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmalik84" alt="ankitmalik84" /></a> </p>
+## <img src="images/about.gif" width="30px">  About Me
 
 - 🌱 I’m currently learning **Web Developement**
 
@@ -27,6 +22,14 @@
 - 📺 My Youtube Channel <a href="https://github.com/ryo-ma/github-profile-trophy">**Code Infinity**</a>
 
 - ⚡ Fun fact **I think I am funny**
+
+<!-- My Youtue Bar -->
+[<img src="https://img.shields.io/badge/-My_Youtube_Channel-000000?style=social&logo=youtube"/>](https://www.youtube.com/channel/UCJdWKVZpU687cfPgXRuRBaA)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmalik84&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmalik84" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmalik84" alt="ankitmalik84" /></a> </p>
+
 
 ## <img src="images/contact.gif" style=" width:50px;"> Contact with me :
 <p align="left" >
