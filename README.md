@@ -30,9 +30,9 @@
 
 ## <img src="images/contact.gif" style=" width:50px;"> Contact with me :
 <p align="left" >
-<a href="https://linkedin.com/in/ankit-malik-986197227/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/ankit-malik-986197227/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa" height="30" width="40" /></a>
-<a href="https://instagram.com/mindless_jaat__/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mindless_jaat__/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-malik-986197227/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/ankit-malik-986197227/"/></a>
+<a href="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa"/></a>
+<a href="https://instagram.com/mindless_jaat__/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mindless_jaat__/" /></a>
 <a href="/https://linktr.ee/codeinfinity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/connect.png" alt="https://linktr.ee/codeinfinity" /></a></p>
   
  <h3 align="left">Coding Profiles:</h3>
