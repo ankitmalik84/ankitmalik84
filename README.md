@@ -7,7 +7,9 @@
 
 <!-- <h3 align="center">A passionate Competitive Programmer from India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmalik84&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmalik84" /> </p>
+### Profile Views : 
+  <img src="https://profile-counter.glitch.me/ankitmalik84/count.svg" />
+  <br>
 
 ## <img src="images.gif" width="30px">  About Me
 
