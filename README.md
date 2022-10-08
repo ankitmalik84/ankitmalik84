@@ -9,7 +9,6 @@
 
 ### Profile Views : 
   <img src="https://profile-counter.glitch.me/ankitmalik84/count.svg" />
-  <br>
 
 ## <img src="images.gif" width="30px">  About Me
 
