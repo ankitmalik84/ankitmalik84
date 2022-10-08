@@ -7,7 +7,7 @@
 
 <!-- <h3 align="center">A passionate Competitive Programmer from India</h3> -->
 
-## <img src="images/about.gif" width="30px">  About Me
+## <img src="images.gif" width="30px">  About Me
 
 - 🌱 I’m currently learning **Web Developement**
 
