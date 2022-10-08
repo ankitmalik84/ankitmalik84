@@ -10,7 +10,7 @@
 ### Profile Views : 
   <img src="https://profile-counter.glitch.me/ankitmalik84/count.svg" />
 
-## <img src="images.gif" width="30px">  About Me
+##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 - 🌱 I’m currently learning **Web Developement**
 
@@ -43,7 +43,7 @@
 <a href="https://t.me/CodeInfinityCommunity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" alt="CodeInfinityCommunity" /></a>
 <a href="https://linktr.ee/codeinfinity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/connect.png" alt="https://linktr.ee/codeinfinity" /></a></p>
   
- ## <img src="images/contact.gif" style=" width:50px;"> Coding Profiles :
+ ## <img src="images.gif" width="30px"> Coding Profiles :
 <p align="left" >
  <a href="https://www.hackerrank.com/ankitmalik844903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitmalik844903" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankitmalik844903/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitmalik844903/" height="30" width="40" /></a>
