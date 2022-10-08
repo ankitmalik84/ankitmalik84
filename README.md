@@ -26,11 +26,6 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<!-- My Youtue Bar -->
-[<img src="https://img.shields.io/badge/-My_Youtube_Channel-000000?style=social&logo=youtube"/>](https://www.youtube.com/channel/UCJdWKVZpU687cfPgXRuRBaA)
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmalik84" alt="ankitmalik84" /></a> </p>
 
 
