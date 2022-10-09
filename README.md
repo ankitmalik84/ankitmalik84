@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ankitmalik844903@gmail.com**
 
-- 💻 Founder **@ Code Infinity**
+- 💻 Founder **@Code Infinity**
 
 - 📧 Feel Free to Contact Me : `8449035579` <br>
 
