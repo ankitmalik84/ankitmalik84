@@ -50,7 +50,7 @@
 
 ```python
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"]
-Languages = ["C", "C++", "Python", "HTML", "CSS","Javascript"]
+Languages = ["C", "C++", "Python", "HTML", "CSS", "Javascript"]
 ```
 <div align=center>
   
