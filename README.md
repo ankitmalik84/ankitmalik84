@@ -40,7 +40,9 @@
 <a href="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa"/></a>
 <a href="https://instagram.com/mindless_jaat__/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mindless_jaat__/" /></a>
 <a href="https://t.me/CodeInfinityCommunity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" alt="CodeInfinityCommunity" /></a>
-<a href="https://linktr.ee/codeinfinity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/connect.png" alt="https://linktr.ee/codeinfinity" /></a></p>
+<a href="https://linktr.ee/codeinfinity" target="blank"><img align="center" src="https://user-images.githubusercontent.com/76803084/184472319-bf84cda3-cdaa-4868-b998-ec17621265c0.png" alt="badal-singh-73553622a/" height="35" width="50" /></a>
+  </p>
+
   
  ## <img src="images.gif" width="30px"> Coding Profiles :
 <p align="left" >
