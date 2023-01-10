@@ -56,9 +56,8 @@
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography", "Exploring various OS :)"]
 Languages = ["C", "C++", "Python", "HTML", "CSS", "Javascript"]
 ```
-<div align=center>
-  
-[![coding speed x 1000](/187495.gif)](https://github.com/ankitmalik84/webtec/blob/main)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ## 🚀 Languages and Tools:
