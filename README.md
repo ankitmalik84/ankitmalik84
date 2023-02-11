@@ -88,7 +88,7 @@ Languages = ["C", "C++", "Python", "HTML", "CSS", "Javascript"]
 
 
 
-
+[![ankitmalik's GitHub stats](https://stats.quine.sh/ankitmalik/github)](https://quine.sh)
 
 
 <br/>
