@@ -13,7 +13,7 @@
 
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 📖 I’m currently learning **Data Structure**
 
