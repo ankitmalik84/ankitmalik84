@@ -89,7 +89,5 @@ Languages = ["C", "C++", "Python", "HTML", "CSS", "Javascript"]
 [![ankitmalik's GitHub stats](https://stats.quine.sh/ankitmalik/github)](https://quine.sh)
 [![ankitmalik's github activity graph](https://github-graph.herokuapp.com/graph?username=ankitmalik84&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/anthonyraf#gh-light-mode-only)
 
-
-
 <br/>
 <br/>
