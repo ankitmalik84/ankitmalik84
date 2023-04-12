@@ -55,7 +55,7 @@
 
 ```python
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "UX/UI Desgining", "Exploring various OS :)"]
-Languages = ["C", "C++", "Python", "HTML", "CSS", "Javascript"]
+Languages = ["C", "C++", "Python", "HTML", "CSS", "Javascript","ReactJs"]
 ```
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
