@@ -2,9 +2,8 @@
 
 <!-- Typing SVG              -->
 
-<p align="center"> 
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=A+passionate+Competitive+Programmer+from+India;Community+Builder;Front+End+Developer;UX/UI+Desginer" alt="Typing SVG" /></a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&align=center&pause=1000&color=000000&center=true&width=1035&lines=MERN+Stack+Developer;Graphics+Designer;Video+Editor;Community+Builder;Ai+Enthusiast)](https://git.io/typing-svg)
 
 <!-- <h3 align="center">A passionate Competitive Programmer from India</h3> -->
 
