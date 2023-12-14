@@ -36,9 +36,9 @@
 
 ## <img src="images/contact.gif" style=" width:50px;"> Contact with me :
 <p align="left" >
-<a href="https://linkedin.com/in/ankit-malik-986197227/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/ankit-malik-986197227/"/></a>
-<a href="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="https://www.youtube.com/channel/ucjdwkvzpu687cfpgxrurbaa"/></a>
-<a href="https://www.instagram.com/ch.ankit.malik/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mindless_jaat__/" /></a>
+<a href="https://www.linkedin.com/in/ankitmalik00/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/ankitmalik00/"/></a>
+<a href="https://www.youtube.com/@CODEINFINITY" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="https://www.youtube.com/@CODEINFINITY"/></a>
+<a href="https://www.instagram.com/ch.ankit.malik/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="https://www.instagram.com/ch.ankit.malik/" /></a>
 <a href="https://t.me/CodeInfinityCommunity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" alt="CodeInfinityCommunity" /></a>
 <a href="https://linktr.ee/codeinfinity" target="blank"><img align="center" src="https://user-images.githubusercontent.com/76803084/184472319-bf84cda3-cdaa-4868-b998-ec17621265c0.png" alt="badal-singh-73553622a/" height="35" width="50" /></a>
   </p>
