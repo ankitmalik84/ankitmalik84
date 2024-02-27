@@ -55,6 +55,7 @@
 ```python
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "UX/UI Desgining", "Exploring various OS :)"]
 Languages & Framework = ["C", "C++", "Python", "HTML", "CSS", "Javascript","ReactJs","Nodejs","MongoDB","Redux","Vite","Socket.io","ExpressJs"]
+Cloud = ["AWS","Fundamentals of Azure"]
 ```
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
