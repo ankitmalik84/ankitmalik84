@@ -54,7 +54,7 @@
 
 ```python
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "UX/UI Desgining", "Exploring various OS :)"]
-Languages = ["C", "C++", "Python", "HTML", "CSS", "Javascript","ReactJs"]
+Languages & Framework = ["C", "C++", "Python", "HTML", "CSS", "Javascript","ReactJs","Nodejs","MongoDB","Redux","Vite","Socket.io","ExpressJs"]
 ```
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
