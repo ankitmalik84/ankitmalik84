@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 📖 I’m currently learning **Data Structure**
+- 📖 I’m currently learning **Data Structure & Algorithm**
 
 - 📫 How to reach me **ankitmalik844903@gmail.com**
 
