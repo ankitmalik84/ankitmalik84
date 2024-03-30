@@ -90,12 +90,12 @@ Cloud = ["AWS","Fundamentals of Azure"]
 <!--Streak-->
 <p >
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmalik84&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmalik84&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&card_width=1100"/>
   </a>
 </p>
 <br/>
 
-[![ankitmalik's github activity graph](https://github-graph.herokuapp.com/graph?username=ankitmalik84&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/anthonyraf#gh-light-mode-only)
+[![ankitmalik's github activity graph](https://github-graph.herokuapp.com/graph?username=ankitmalik84&hide_border=false&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/anthonyraf#gh-light-mode-only)
 
 <br/>
 <br/>
