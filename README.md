@@ -12,7 +12,7 @@
 
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- 🌱 I’m a **Full Stack Web Developement**
+- 🌱 I’m a **Full Stack Web Developer**
 
 - 📖 I’m currently learning **Data Structure & Algorithm**
 
