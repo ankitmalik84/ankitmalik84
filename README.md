@@ -40,7 +40,7 @@
 <a href="https://www.youtube.com/@CODEINFINITY" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="https://www.youtube.com/@CODEINFINITY"/></a>
 <a href="https://www.instagram.com/ch.ankit.malik/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="https://www.instagram.com/ch.ankit.malik/" /></a>
 <a href="https://t.me/CodeInfinityCommunity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" alt="CodeInfinityCommunity" /></a>
-<a href="https://linktr.ee/codeinfinity" target="blank"><img align="center" src="https://user-images.githubusercontent.com/76803084/184472319-bf84cda3-cdaa-4868-b998-ec17621265c0.png" alt="badal-singh-73553622a/" height="35" width="50" /></a>
+  <a href="https://twitter.com/AnkitMalik84" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/x.png" alt="Twitter"  /></a>
   </p>
 
   
@@ -77,6 +77,7 @@ Cloud = ["AWS","Fundamentals of Azure"]
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
 
 
