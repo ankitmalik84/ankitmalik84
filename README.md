@@ -12,13 +12,13 @@
 
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- 🌱 I’m currently learning **Full Stack Web Developement**
+- 🌱 I’m a **Full Stack Web Developement**
 
 - 📖 I’m currently learning **Data Structure & Algorithm**
 
 - 📫 How to reach me **ankitmalik844903@gmail.com**
 
-- 💻 Founder **@Code Infinity**
+- 💻 **AWS AI&ML Scholar'23**
 
 - 📧 Feel Free to Contact Me : `8449035579` <br>
 
