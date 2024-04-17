@@ -96,7 +96,7 @@ Cloud = ["AWS","Fundamentals of Azure"]
 </p>
 <br/>
 
-[![ankitmalik's github activity graph](https://github-graph.herokuapp.com/graph?username=ankitmalik84&hide_border=false&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/anthonyraf#gh-light-mode-only)
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmalik84&bg_color=ffffff&color=080808&line=0a81ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
