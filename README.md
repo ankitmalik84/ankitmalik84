@@ -53,8 +53,9 @@
 </p>
 
 ```python
-Interests = ["Coding", "Problem Solving", "Graphic Editing", "UX/UI Desgining", "Exploring various OS :)"]
-Languages & Framework = ["C", "C++", "Python","Javascript","ReactJs","NEXTJS","Nodejs","MongoDB","Redux","Vite","Socket.io","ExpressJs"]
+Interests = ["Coding", "Problem Solving", "Graphic Editing", "Machine Learning", "Exploring various OS :)"]
+Languages & Framework = ["C", "C++", "Python","Javascript","ReactJs","NEXTJS","Nodejs","Redux","Prisma","Socket.io","Docker"]
+Databases = ["MongoDB","Postgres"]
 Cloud = ["AWS","Fundamentals of Azure"]
 ```
 <div align="center">
