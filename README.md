@@ -54,7 +54,7 @@
 
 ```python
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "UX/UI Desgining", "Exploring various OS :)"]
-Languages & Framework = ["C", "C++", "Python", "HTML", "CSS", "Javascript","ReactJs","Nodejs","MongoDB","Redux","Vite","Socket.io","ExpressJs"]
+Languages & Framework = ["C", "C++", "Python","Javascript","ReactJs","NEXTJS","Nodejs","MongoDB","Redux","Vite","Socket.io","ExpressJs"]
 Cloud = ["AWS","Fundamentals of Azure"]
 ```
 <div align="center">
