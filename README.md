@@ -54,7 +54,7 @@
 </p>
 
 ```python
-Interests = ["Coding", "Problem Solving", "Graphic Editing", "Machine Learning", "Exploring various OS :)"]
+Interests = ["LLM","AI Automation", "Problem Solving", "Graphic Editing", "Machine Learning", "Exploring various OS :)"]
 Languages & Framework = ["NEXTJS","Nodejs","LLM","OpenAI","Redux","Prisma","Socket.io","Docker","C", "C++", "Python","Javascript","ReactJs"]
 Databases = ["MongoDB","Postgres"]
 Cloud = ["AWS","Fundamentals of Azure"]
