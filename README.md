@@ -14,7 +14,8 @@
 
 - 🌱 I’m a **Software Developer at Persist Ventures**
 
-- 📖 I’m currently learning **Data Structure & Algorithm**
+- 📖 I'm currently deepening my knowledge in **Large Language Models (LLMs)** and strengthening my skills in **Data Structures and Algorithms** to enhance my capabilities in 
+      AI and efficient problem-solving.
 
 - 📫 How to reach me **ankitmalik844903@gmail.com**
 
@@ -54,7 +55,7 @@
 
 ```python
 Interests = ["Coding", "Problem Solving", "Graphic Editing", "Machine Learning", "Exploring various OS :)"]
-Languages & Framework = ["C", "C++", "Python","Javascript","ReactJs","NEXTJS","Nodejs","Redux","Prisma","Socket.io","Docker"]
+Languages & Framework = ["NEXTJS","Nodejs","LLM","OpenAI","Redux","Prisma","Socket.io","Docker","C", "C++", "Python","Javascript","ReactJs"]
 Databases = ["MongoDB","Postgres"]
 Cloud = ["AWS","Fundamentals of Azure"]
 ```
