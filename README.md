@@ -41,7 +41,7 @@
 <a href="https://www.youtube.com/@CODEINFINITY" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="https://www.youtube.com/@CODEINFINITY"/></a>
 <a href="https://www.instagram.com/ch.ankit.malik/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="https://www.instagram.com/ch.ankit.malik/" /></a>
 <a href="https://t.me/CodeInfinityCommunity" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" alt="CodeInfinityCommunity" /></a>
-  <a href="https://twitter.com/AnkitMalik84" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/x.png" alt="Twitter"  /></a>
+  <a href="https://x.com/coderankitmalik" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/x.png" alt="Twitter"  /></a>
   </p>
 
   
