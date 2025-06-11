@@ -3,7 +3,7 @@
 <!-- Typing SVG              -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=5001&align=center&pause=1100&color=000000&center=true&width=1035&lines=MERN+Stack;Langgraph+&+Langchain;Ai+Agent;Data+Structure+&+Algorithum;Community+Builder;Ai+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=5001&align=center&pause=1100&color=000000&center=true&width=1035&lines=MERN+Stack;Langgraph+Langchain;Ai+Agent;Data+Structure+Algorithum;Community+Builder;Ai+Enthusiast)](https://git.io/typing-svg)
 
 <!-- <h3 align="center">A passionate Competitive Programmer from India</h3> -->
 
