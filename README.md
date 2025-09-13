@@ -54,10 +54,10 @@
 </p>
 
 ```python
-Interests = ["LLM","AI Automation", "Problem Solving", "Graphic Editing", "Machine Learning", "Exploring various OS :)"]
-Languages & Framework = ["NEXTJS","Nodejs","LLM","OpenAI","Redux","Prisma","Socket.io","Docker","C", "C++", "Python","Javascript","ReactJs"]
+Interests = ["LLM", "Problem Solving", "Ai Agents", "Machine Learning", "Exploring various OS :)"]
+Languages & Framework = ["NEXTJS","Nodejs","LLM","LangGraph","AutoGen","OpenAI","Redux","Prisma","Socket.io","Docker","C", "C++", "Python","Javascript","ReactJs"]
 Databases = ["MongoDB","Postgres"]
-Cloud = ["AWS","Fundamentals of Azure"]
+Cloud = ["AWS","Azure"]
 ```
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
