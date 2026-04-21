@@ -159,8 +159,7 @@ Healthcare platform for clinic management.
 <p align="center">
 <a href="https://leetcode.com/u/ankitjaat24u/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.hackerrank.com/ankitmalik844903"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-<a href="https://auth.geeksforgeeks.org/user/user/ankitmalik844903"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<a href="https://www.codechef.com/users/ankitmalik0001"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://www.geeksforgeeks.org/profile/ankitmalik844903"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 <a href="https://codeforces.com/profile/ankitmalik"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 </p>
 
