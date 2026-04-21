@@ -26,7 +26,6 @@ Experienced **Software Developer** and **AI Enthusiast** based in Ghaziabad, Ind
 - 🤖 Building **AI Agents** with LangGraph, LangChain, AutoGen & multi-agent systems
 - 🛡️ **LeetCode Guardian** — 2170+ Rating | Competitive Programmer
 - ☁️ **AWS Certified Cloud Practitioner** | **Azure Certified (AZ-900, AI-900)**
-- 📺 Running **[Code Infinity](https://www.youtube.com/channel/UCJdWKVZpU687cfPgXRuRBaA)** YouTube Channel — Tech Community Builder
 - 📫 Reach me at **ankitmalik844903@gmail.com**
 - 🌐 **[Portfolio](https://personal-portfolio-gamma-red.vercel.app/)**
 
