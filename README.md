@@ -187,19 +187,17 @@ Worked system designs (URL shortener and more) behind my distributed-systems pos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankitmalik84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitmalik84&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitmalik84&theme=tokyonight" alt="GitHub Stats" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitmalik84&theme=tokyonight" alt="Top Languages" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitmalik84&theme=tokyonight" alt="Most Committed Languages" height="200"/>
 
 <br/>
 
-<!--Streak-->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmalik84&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=FFFFFF" alt="Streak Stats"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=ankitmalik84&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=FFFFFF" alt="Streak Stats"/>
 
 <br/>
 
-[![Ankit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmalik84&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://ghchart.rshah.org/3B82F6/ankitmalik84" alt="Contribution Graph" width="100%"/>
 
 </div>
 
