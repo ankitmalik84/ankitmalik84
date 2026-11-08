@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ankit Malik
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=SDE+%28GenAI+Systems%29+%40+Persist+Ventures;Generative+AI+%7C+LLM+Agents+%7C+RAG+%7C+Python+%26+Java+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=SDE+%28GenAI+Systems%29+%40+Persist+Ventures;Generative+AI+%7C+LLM+Agents+%7C+RAG+%7C+Python+%26+Java+Backend)](https://git.io/typing-svg)
 
 <p>
 <a href="https://www.linkedin.com/in/ankitmalik00/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
