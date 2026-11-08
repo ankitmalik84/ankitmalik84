@@ -195,9 +195,6 @@ Worked system designs (URL shortener and more) behind my distributed-systems pos
 
 <img src="https://streak-stats.demolab.com/?user=ankitmalik84&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=FFFFFF" alt="Streak Stats"/>
 
-<br/>
-
-<img src="https://ghchart.rshah.org/3B82F6/ankitmalik84" alt="Contribution Graph" width="100%"/>
 
 </div>
 
