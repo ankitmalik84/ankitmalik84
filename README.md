@@ -19,12 +19,12 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
 
-**Software Development Engineer (GenAI Systems)** based in Ghaziabad, India, with **2+ years** shipping production **Generative AI** systems — **LLM agents, RAG, multi-agent orchestration** — on scalable **Python and Java** backends.
+**Software Development Engineer (GenAI Systems)** based in Ghaziabad, India, with **2+ years** shipping production **Generative AI** systems - **LLM agents, RAG, multi-agent orchestration** - on scalable **Python and Java** backends.
 
-- 🔭 **SDE (GenAI Systems) at [Persist Ventures](https://persistventures.com)** — lead engineer on **[SongGPT](https://songgpt.com/)** (100k+ active users, 2M+ songs generated)
+- 🔭 **SDE (GenAI Systems) at [Persist Ventures](https://persistventures.com)** - lead engineer on **[SongGPT](https://songgpt.com/)** (100k+ active users, 2M+ songs generated)
 - 🤖 Building **AI agents** with LangGraph, LangChain, AutoGen, RAG on Qdrant, and MCP servers
-- ⚙️ Backend: FastAPI, Celery/Redis, Spring Boot, PostgreSQL — I write about distributed systems (Kafka, Redis, Cassandra) on [LinkedIn](https://www.linkedin.com/in/ankitmalik00/)
-- 🛡️ **LeetCode Guardian** — 2100+ Rating | 1000+ problems solved
+- ⚙️ Backend: FastAPI, Celery/Redis, Spring Boot, PostgreSQL - I write about distributed systems (Kafka, Redis, Cassandra) on [LinkedIn](https://www.linkedin.com/in/ankitmalik00/)
+- 🛡️ **LeetCode Guardian** - 2100+ Rating | 1000+ problems solved
 - ☁️ **AWS Certified Cloud Practitioner** | **Azure Certified (AZ-900, AI-900)**
 - 📫 Reach me at **ankitmalik844903@gmail.com**
 - 🌐 **[Portfolio](https://personal-portfolio-gamma-red.vercel.app/)**
@@ -37,24 +37,24 @@
 <tr>
 <td width="100" align="center">🏢</td>
 <td>
-<strong>Persist Ventures — Software Development Engineer (GenAI Systems)</strong> <br/>
-<em>Aug 2024 — Present</em> <br/>
+<strong>Persist Ventures - Software Development Engineer (GenAI Systems)</strong> <br/>
+<em>Aug 2024 - Present</em> <br/>
 Lead engineer on <strong>SongGPT</strong>, a generative AI music platform serving <strong>100k+ active users</strong> and <strong>2M+ public songs</strong>. Architected the generation pipeline as stateful <strong>LangGraph</strong> workflows (LangChain, AutoGen) with conditional routing, fallbacks and state persistence; shipped real-time conversational AI with <strong>SSE streaming over FastAPI</strong>; integrated <strong>Qdrant</strong> vector search and long-term memory; built the Next.js frontend and Stripe billing; and designed a production email architecture (Celery, Redis, Flask) with priority queues, rate limiting and exponential-backoff retries delivering to <strong>70k+ recipients</strong>.
 </td>
 </tr>
 <tr>
 <td width="100" align="center">📊</td>
 <td>
-<strong>Colabio — Software Engineer</strong> <br/>
-<em>Mar 2026 — Present</em> <br/>
+<strong>Colabio - Software Engineer</strong> <br/>
+<em>Mar 2026 - Present</em> <br/>
 Engineered a multi-tenant workforce-analytics SaaS end to end: <strong>Java</strong> backend services, a cross-platform desktop telemetry agent, aggregation pipelines for utilization and focus metrics, rule-based work classification, <strong>multi-tenant RBAC</strong>, anomaly alerting, invoicing, and an <strong>MCP server exposing 25+ tools</strong> to LLM clients.
 </td>
 </tr>
 <tr>
 <td width="100" align="center">🇮🇳</td>
 <td>
-<strong>Indian Army — Full Stack Developer Intern</strong> <br/>
-<em>Jan 2024 — Mar 2024</em> <br/>
+<strong>Indian Army - Full Stack Developer Intern</strong> <br/>
+<em>Jan 2024 - Mar 2024</em> <br/>
 Built a Human Resource Management System for profile management, leave tracking & guest room allocation. Implemented CO's interview module and notices dashboard using XAMPP, PHP & MySQL.
 </td>
 </tr>
