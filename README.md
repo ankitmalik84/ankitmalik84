@@ -2,13 +2,12 @@
 
 # Hi 👋, I'm Ankit Malik
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Software+Developer+%40+Persist+Ventures;AI+Agents+%7C+LLMs+%7C+RAG+%7C+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=SDE+%28GenAI+Systems%29+%40+Persist+Ventures;Generative+AI+%7C+LLM+Agents+%7C+RAG+%7C+Python+%26+Java+Backend)](https://git.io/typing-svg)
 
 <p>
 <a href="https://www.linkedin.com/in/ankitmalik00/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/ankit_malik84"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://www.youtube.com/@CODEINFINITY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.instagram.com/ch.ankit.malik/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://personal-portfolio-gamma-red.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -20,11 +19,12 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
 
-Experienced **Software Developer** and **AI Enthusiast** based in Ghaziabad, India, with a strong foundation in crafting modern web solutions and a growing specialization in building intelligent systems using **AI Agents, LLMs, and RAG techniques**.
+**Software Development Engineer (GenAI Systems)** based in Ghaziabad, India, with **2+ years** shipping production **Generative AI** systems — **LLM agents, RAG, multi-agent orchestration** — on scalable **Python and Java** backends.
 
-- 🔭 Currently working as **Software Developer at [Persist Ventures](https://persistventures.com)** — Lead developer of **[SongGPT](https://songgpt.com/)**
-- 🤖 Building **AI Agents** with LangGraph, LangChain, AutoGen & multi-agent systems
-- 🛡️ **LeetCode Guardian** — 2170+ Rating | Competitive Programmer
+- 🔭 **SDE (GenAI Systems) at [Persist Ventures](https://persistventures.com)** — lead engineer on **[SongGPT](https://songgpt.com/)** (100k+ active users, 2M+ songs generated)
+- 🤖 Building **AI agents** with LangGraph, LangChain, AutoGen, RAG on Qdrant, and MCP servers
+- ⚙️ Backend: FastAPI, Celery/Redis, Spring Boot, PostgreSQL — I write about distributed systems (Kafka, Redis, Cassandra) on [LinkedIn](https://www.linkedin.com/in/ankitmalik00/)
+- 🛡️ **LeetCode Guardian** — 2100+ Rating | 1000+ problems solved
 - ☁️ **AWS Certified Cloud Practitioner** | **Azure Certified (AZ-900, AI-900)**
 - 📫 Reach me at **ankitmalik844903@gmail.com**
 - 🌐 **[Portfolio](https://personal-portfolio-gamma-red.vercel.app/)**
@@ -37,9 +37,17 @@ Experienced **Software Developer** and **AI Enthusiast** based in Ghaziabad, Ind
 <tr>
 <td width="100" align="center">🏢</td>
 <td>
-<strong>Persist Ventures — Software Developer</strong> <br/>
+<strong>Persist Ventures — Software Development Engineer (GenAI Systems)</strong> <br/>
 <em>Aug 2024 — Present</em> <br/>
-Lead developer of <strong>SongGPT</strong> — AI-powered music production platform handling <strong>1M+ users</strong>, built with LangGraph, LangChain, AutoGen & LLMs. Architected <strong>scalable microservices</strong> with state-based workflow engines, conditional routing & state persistence. Integrated Qdrant Vector DB for semantic search at scale, deployed Next.js frontend with Stripe payments, and designed a high-throughput production email architecture (Celery, Redis, Flask) with priority-queued task routing, rate limiting & exponential-backoff retry — serving <strong>70k+ recipients</strong> per batch.
+Lead engineer on <strong>SongGPT</strong>, a generative AI music platform serving <strong>100k+ active users</strong> and <strong>2M+ public songs</strong>. Architected the generation pipeline as stateful <strong>LangGraph</strong> workflows (LangChain, AutoGen) with conditional routing, fallbacks and state persistence; shipped real-time conversational AI with <strong>SSE streaming over FastAPI</strong>; integrated <strong>Qdrant</strong> vector search and long-term memory; built the Next.js frontend and Stripe billing; and designed a production email architecture (Celery, Redis, Flask) with priority queues, rate limiting and exponential-backoff retries delivering to <strong>70k+ recipients</strong>.
+</td>
+</tr>
+<tr>
+<td width="100" align="center">📊</td>
+<td>
+<strong>Colabio — Software Engineer</strong> <br/>
+<em>Mar 2026 — Present</em> <br/>
+Engineered a multi-tenant workforce-analytics SaaS end to end: <strong>Java</strong> backend services, a cross-platform desktop telemetry agent, aggregation pipelines for utilization and focus metrics, rule-based work classification, <strong>multi-tenant RBAC</strong>, anomaly alerting, invoicing, and an <strong>MCP server exposing 25+ tools</strong> to LLM clients.
 </td>
 </tr>
 <tr>
@@ -79,9 +87,9 @@ Multi-agent travel planning system built with AutoGen framework for automated it
 <td width="50%">
 
 ### 🤝 [AI Deals Agent](https://github.com/ankitmalik84/AI_DEALS_AGENT)
-Multi-agent AI system for intelligent deal discovery and analysis.
+Multi-agent deal discovery with an ensemble price estimator — fine-tuned Llama 3.1 8B, RAG over ChromaDB and Random Forest — plus SMS/WhatsApp alerts via Twilio.
 
-`Multi-Agent` `LangChain` `Python` `AI`
+`Multi-Agent` `Llama 3.1` `ChromaDB` `RAG` `Python`
 
 </td>
 <td width="50%">
@@ -96,18 +104,18 @@ AI agent with WhatsApp integration for system design assistance.
 <tr>
 <td width="50%">
 
-### 🌐 [Code Infinity](https://code-infinity.vercel.app)
-Tech community platform for developers.
+### 🌐 [Code Infinity AI](https://code-infinity.vercel.app)
+Perplexity-style AI chat with live web search, SSE-streamed answers and conversation memory.
 
-`Next.js` `React` `Node.js` `MongoDB`
+`Next.js` `FastAPI` `LangGraph` `GPT-4o` `Tavily`
 
 </td>
 <td width="50%">
 
-### 🏥 [Clinics4Health](https://clinics4health.com/)
-Healthcare platform for clinic management.
+### 🏗️ [System Design Notes](https://github.com/ankitmalik84/System-Design)
+Worked system designs (URL shortener and more) behind my distributed-systems posts on Kafka, Redis and Cassandra.
 
-`React` `Node.js` `Full Stack`
+`System Design` `Distributed Systems` `Kafka` `Redis`
 
 </td>
 </tr>
@@ -136,19 +144,19 @@ Healthcare platform for clinic management.
 <div align="center">
 
 #### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 #### AI & ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
